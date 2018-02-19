@@ -1,0 +1,34 @@
+c:\users\luka\documents\visual studio 2012\Projects\tictacRom\tictacRom\bin\Debug\tictacRom.exe.config
+c:\users\luka\documents\visual studio 2012\Projects\tictacRom\tictacRom\bin\Debug\tictacRom.exe
+c:\users\luka\documents\visual studio 2012\Projects\tictacRom\tictacRom\bin\Debug\tictacRom.pdb
+c:\users\luka\documents\visual studio 2012\Projects\tictacRom\tictacRom\obj\Debug\tictacRom.Form1.resources
+c:\users\luka\documents\visual studio 2012\Projects\tictacRom\tictacRom\obj\Debug\tictacRom.Properties.Resources.resources
+c:\users\luka\documents\visual studio 2012\Projects\tictacRom\tictacRom\obj\Debug\tictacRom.csproj.GenerateResource.Cache
+c:\users\luka\documents\visual studio 2012\Projects\tictacRom\tictacRom\obj\Debug\tictacRom.exe
+c:\users\luka\documents\visual studio 2012\Projects\tictacRom\tictacRom\obj\Debug\tictacRom.pdb
+C:\Users\Luka\Documents\Visual Studio 2013\Projects\tictacRom\tictacRom\bin\Debug\tictacRom.exe.config
+C:\Users\Luka\Documents\Visual Studio 2013\Projects\tictacRom\tictacRom\obj\Debug\tictacRom.exe
+C:\Users\Luka\Documents\Visual Studio 2013\Projects\tictacRom\tictacRom\obj\Debug\tictacRom.pdb
+C:\Users\Luka\Documents\Visual Studio 2013\Projects\tictacRom\tictacRom\bin\Debug\tictacRom.exe
+C:\Users\Luka\Documents\Visual Studio 2013\Projects\tictacRom\tictacRom\bin\Debug\tictacRom.pdb
+C:\Users\Luka\Documents\Visual Studio 2013\Projects\tictacRom\tictacRom\obj\Debug\tictacRom.Form1.resources
+C:\Users\Luka\Documents\Visual Studio 2013\Projects\tictacRom\tictacRom\obj\Debug\tictacRom.Properties.Resources.resources
+C:\Users\Luka\Documents\Visual Studio 2013\Projects\tictacRom\tictacRom\obj\Debug\tictacRom.csproj.GenerateResource.Cache
+C:\Users\Luka\Dropbox\FERI\VAJE4\RO\vaja4\tictacRom\tictacRom\bin\Debug\tictacRom.exe.config
+C:\Users\Luka\Dropbox\FERI\VAJE4\RO\vaja4\tictacRom\tictacRom\obj\Debug\tictacRom.exe
+C:\Users\Luka\Dropbox\FERI\VAJE4\RO\vaja4\tictacRom\tictacRom\obj\Debug\tictacRom.pdb
+C:\Users\Luka\Dropbox\FERI\VAJE4\RO\vaja4\tictacRom\tictacRom\bin\Debug\tictacRom.exe
+C:\Users\Luka\Dropbox\FERI\VAJE4\RO\vaja4\tictacRom\tictacRom\bin\Debug\tictacRom.pdb
+C:\Users\Luka\Dropbox\FERI\VAJE4\RO\vaja4\tictacRom\tictacRom\obj\Debug\tictacRom.csprojResolveAssemblyReference.cache
+C:\Users\Luka\Dropbox\FERI\VAJE4\RO\vaja4\tictacRom\tictacRom\obj\Debug\tictacRom.Form1.resources
+C:\Users\Luka\Dropbox\FERI\VAJE4\RO\vaja4\tictacRom\tictacRom\obj\Debug\tictacRom.Properties.Resources.resources
+C:\Users\Luka\Dropbox\FERI\VAJE4\RO\vaja4\tictacRom\tictacRom\obj\Debug\tictacRom.csproj.GenerateResource.Cache
+C:\Users\bostj\Desktop\tictacRom\tictacRom\tictacRom\bin\Debug\tictacRom.exe.config
+C:\Users\bostj\Desktop\tictacRom\tictacRom\tictacRom\obj\Debug\tictacRom.pdb
+C:\Users\bostj\Desktop\tictacRom\tictacRom\tictacRom\bin\Debug\tictacRom.exe
+C:\Users\bostj\Desktop\tictacRom\tictacRom\tictacRom\bin\Debug\tictacRom.pdb
+C:\Users\bostj\Desktop\tictacRom\tictacRom\tictacRom\obj\Debug\tictacRom.csprojResolveAssemblyReference.cache
+C:\Users\bostj\Desktop\tictacRom\tictacRom\tictacRom\obj\Debug\tictacRom.Form1.resources
+C:\Users\bostj\Desktop\tictacRom\tictacRom\tictacRom\obj\Debug\tictacRom.Properties.Resources.resources
+C:\Users\bostj\Desktop\tictacRom\tictacRom\tictacRom\obj\Debug\tictacRom.csproj.GenerateResource.Cache
+C:\Users\bostj\Desktop\tictacRom\tictacRom\tictacRom\obj\Debug\tictacRom.exe
